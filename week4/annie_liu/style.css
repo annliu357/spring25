@@ -1,0 +1,11 @@
+body {
+    /* centers everything with body tag (entire page)*/
+    text-align: center;
+    font-family: "Arial";
+    background: rgb(200, 201, 229);
+    color: rgb(170, 44, 170);
+}
+
+h1 {
+    color: rgb(164, 90, 102);
+}
